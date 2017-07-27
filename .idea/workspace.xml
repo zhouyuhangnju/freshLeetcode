@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5aa50453-56b0-4310-81ae-68844dee7481" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binary Tree Inorder Traversal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decode Ways.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gray Code.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Interleaving String.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Recover Binary Search Tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Restore IP Addresses.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Reverse Linked List II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Same Tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Subsets II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unique Binary Search Trees II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Unique Binary Search Trees.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Validate Binary Search Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binary Tree Level Order Traversal II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binary Tree Level Order Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Construct Binary Tree from Preorder and Inorder Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maximum Depth of Binary Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Symmetric Tree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Subsets.py" afterPath="$PROJECT_DIR$/Subsets.py" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,6 +35,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$3sum.coverage" NAME="3sum Coverage Results" MODIFIED="1494500594050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Combination_Sum_II.coverage" NAME="Combination Sum II Coverage Results" MODIFIED="1500892515349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$LongestValidParentheses.coverage" NAME="LongestValidParentheses Coverage Results" MODIFIED="1495365169371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Symmetric_Tree.coverage" NAME="Symmetric Tree Coverage Results" MODIFIED="1501151862146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Combination_Sum_II.coverage" NAME="Combination Sum II Coverage Results" MODIFIED="1495625527836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$ValidParentheses.coverage" NAME="ValidParentheses Coverage Results" MODIFIED="1494759129900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Spiral_Matrix.coverage" NAME="Spiral Matrix Coverage Results" MODIFIED="1499425369450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -58,9 +53,11 @@
     <SUITE FILE_PATH="coverage/LeetCode$Multiply_Strings.coverage" NAME="Multiply Strings Coverage Results" MODIFIED="1495796739145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Jump_Game_II.coverage" NAME="Jump Game II Coverage Results" MODIFIED="1499425805862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Minimum_Path_Sum.coverage" NAME="Minimum Path Sum Coverage Results" MODIFIED="1500033278554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Binary_Tree_Level_Order_Traversal.coverage" NAME="Binary Tree Level Order Traversal Coverage Results" MODIFIED="1501152188120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Maximal_Rectangle.coverage" NAME="Maximal Rectangle Coverage Results" MODIFIED="1500804421274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$NextPermutation.coverage" NAME="NextPermutation Coverage Results" MODIFIED="1495105229967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$MergeKSortedLists.coverage" NAME="MergeKSortedLists Coverage Results" MODIFIED="1494845793458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.coverage" NAME="Construct Binary Tree from Preorder and Inorder Traversal Coverage Results" MODIFIED="1501155641570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$ReverseNodesinkGroup.coverage" NAME="ReverseNodesinkGroup Coverage Results" MODIFIED="1494849891691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Permutation_Sequence.coverage" NAME="Permutation Sequence Coverage Results" MODIFIED="1499599906132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Subsets_II.coverage" NAME="Subsets II Coverage Results" MODIFIED="1500902225496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -84,6 +81,7 @@
     <SUITE FILE_PATH="coverage/freshLeetcode$Remove_Duplicates_from_Sorted_List.coverage" NAME="Remove Duplicates from Sorted List Coverage Results" MODIFIED="1500634071966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Restore_IP_Addresses.coverage" NAME="Restore IP Addresses Coverage Results" MODIFIED="1500982345381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Add_Binary.coverage" NAME="Add Binary Coverage Results" MODIFIED="1500295377444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Maximum_Depth_of_Binary_Tree.coverage" NAME="Maximum Depth of Binary Tree Coverage Results" MODIFIED="1501154876228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Search_in_Rotated_Sorted_Array_II.coverage" NAME="Search in Rotated Sorted Array II Coverage Results" MODIFIED="1500551466097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Largest_Rectangle_in_Histogram.coverage" NAME="Largest Rectangle in Histogram Coverage Results" MODIFIED="1500802917224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Maximum_Subarray.coverage" NAME="Maximum Subarray Coverage Results" MODIFIED="1499419621861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -94,10 +92,12 @@
     <SUITE FILE_PATH="coverage/freshLeetcode$Minimum_Window_Substring.coverage" NAME="Minimum Window Substring Coverage Results" MODIFIED="1500460796542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Subsets.coverage" NAME="Subsets Coverage Results" MODIFIED="1500900519740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$RotateImage.coverage" NAME="RotateImage Coverage Results" MODIFIED="1499253525606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Binary_Tree_Level_Order_Traversal_II.coverage" NAME="Binary Tree Level Order Traversal II Coverage Results" MODIFIED="1501156057526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Partition_List.coverage" NAME="Partition List Coverage Results" MODIFIED="1500806869768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$ValidSudoku.coverage" NAME="ValidSudoku Coverage Results" MODIFIED="1495541360765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Sort_Colors.coverage" NAME="Sort Colors Coverage Results" MODIFIED="1500464215534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Unique_Binary_Search_Trees.coverage" NAME="Unique Binary Search Trees Coverage Results" MODIFIED="1501066921531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Binary_Tree_Zigzag_Level_Order_Traversal.coverage" NAME="Binary Tree Zigzag Level Order Traversal Coverage Results" MODIFIED="1501153615228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$DivideTwoIntegers.coverage" NAME="DivideTwoIntegers Coverage Results" MODIFIED="1495023160524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$RemoveElement.coverage" NAME="RemoveElement Coverage Results" MODIFIED="1494935176310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Container_With_Most_Water.coverage" NAME="Container With Most Water Coverage Results" MODIFIED="1494325619608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -109,6 +109,7 @@
     <SUITE FILE_PATH="coverage/freshLeetcode$Search_a_2D_Matrix.coverage" NAME="Search a 2D Matrix Coverage Results" MODIFIED="1500462810080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$SearchInsertPosition.coverage" NAME="SearchInsertPosition Coverage Results" MODIFIED="1495370224816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$N_Queens.coverage" NAME="N-Queens Coverage Results" MODIFIED="1499419489459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.coverage" NAME="Construct Binary Tree from Inorder and Postorder Traversal Coverage Results" MODIFIED="1501156056000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Binary_Tree_Inorder_Traversal.coverage" NAME="Binary Tree Inorder Traversal Coverage Results" MODIFIED="1500982447578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$SearchinRotatedSorted_Array.coverage" NAME="SearchinRotatedSorted Array Coverage Results" MODIFIED="1495368020037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Length_of_Last_Word.coverage" NAME="Length of Last Word Coverage Results" MODIFIED="1499513465776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -128,36 +129,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Reverse Linked List II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Reverse Linked List II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="31" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Restore IP Addresses.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Restore IP Addresses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unique Binary Search Trees II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unique Binary Search Trees II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Same Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Same Tree.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,61 +139,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Interleaving String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Interleaving String.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="31" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Validate Binary Search Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Validate Binary Search Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="34" selection-end-column="26" />
+            <state relative-caret-position="266">
+              <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Recover Binary Search Tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Recover Binary Search Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Recover Binary Search Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="40" selection-end-column="91" />
+            <state relative-caret-position="315">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Unique Binary Search Trees.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unique Binary Search Trees.py">
+      <file leaf-file-name="Symmetric Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Symmetric Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="191">
+              <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="62" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Binary Tree Inorder Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary Tree Inorder Traversal.py">
+      <file leaf-file-name="Binary Tree Level Order Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Binary Tree Level Order Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="29" selection-end-column="14" />
+            <state relative-caret-position="150">
+              <caret line="24" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Partition List.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Partition List.py">
+      <file leaf-file-name="Binary Tree Zigzag Level Order Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="54" column="18" selection-start-line="37" selection-start-column="4" selection-end-line="54" selection-end-column="18" />
+            <state relative-caret-position="191">
+              <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="59" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Maximum Depth of Binary Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Maximum Depth of Binary Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Construct Binary Tree from Preorder and Inorder Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Construct Binary Tree from Preorder and Inorder Traversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Construct Binary Tree from Inorder and Postorder Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="25" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Binary Tree Level Order Traversal II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Binary Tree Level Order Traversal II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="33" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -243,13 +244,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Maximum Subarray.py" />
-        <option value="$PROJECT_DIR$/Spiral Matrix.py" />
-        <option value="$PROJECT_DIR$/Jump Game II.py" />
-        <option value="$PROJECT_DIR$/Jump Game.py" />
-        <option value="$PROJECT_DIR$/Merge Intervals.py" />
-        <option value="$PROJECT_DIR$/Insert Interval.py" />
-        <option value="$PROJECT_DIR$/Length of Last Word.py" />
         <option value="$PROJECT_DIR$/Spiral Matrix II.py" />
         <option value="$PROJECT_DIR$/Permutation Sequence.py" />
         <option value="$PROJECT_DIR$/Rotate List.py" />
@@ -294,6 +288,13 @@
         <option value="$PROJECT_DIR$/Interleaving String.py" />
         <option value="$PROJECT_DIR$/Validate Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/Recover Binary Search Tree.py" />
+        <option value="$PROJECT_DIR$/Symmetric Tree.py" />
+        <option value="$PROJECT_DIR$/Binary Tree Level Order Traversal.py" />
+        <option value="$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal.py" />
+        <option value="$PROJECT_DIR$/Maximum Depth of Binary Tree.py" />
+        <option value="$PROJECT_DIR$/Construct Binary Tree from Preorder and Inorder Traversal.py" />
+        <option value="$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal.py" />
+        <option value="$PROJECT_DIR$/Binary Tree Level Order Traversal II.py" />
       </list>
     </option>
   </component>
@@ -379,8 +380,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Recover Binary Search Tree">
-    <configuration default="false" name="Unique Binary Search Trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Binary Tree Level Order Traversal II">
+    <configuration default="false" name="Binary Tree Zigzag Level Order Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -393,12 +394,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unique Binary Search Trees.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Same Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Maximum Depth of Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -411,12 +412,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Same Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maximum Depth of Binary Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Interleaving String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Construct Binary Tree from Preorder and Inorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -429,12 +430,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interleaving String.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Construct Binary Tree from Preorder and Inorder Traversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Validate Binary Search Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Construct Binary Tree from Inorder and Postorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -447,12 +448,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Validate Binary Search Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Recover Binary Search Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Binary Tree Level Order Traversal II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -465,7 +466,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recover Binary Search Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary Tree Level Order Traversal II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -679,19 +680,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Unique Binary Search Trees" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Same Tree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Interleaving String" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Validate Binary Search Tree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Recover Binary Search Tree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Binary Tree Zigzag Level Order Traversal" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Maximum Depth of Binary Tree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Construct Binary Tree from Preorder and Inorder Traversal" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Construct Binary Tree from Inorder and Postorder Traversal" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Binary Tree Level Order Traversal II" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Recover Binary Search Tree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Validate Binary Search Tree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Interleaving String" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Same Tree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Unique Binary Search Trees" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Binary Tree Level Order Traversal II" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Construct Binary Tree from Inorder and Postorder Traversal" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Construct Binary Tree from Preorder and Inorder Traversal" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Maximum Depth of Binary Tree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Binary Tree Zigzag Level Order Traversal" />
       </list>
     </recent_temporary>
   </component>
@@ -721,7 +722,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39043826" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39043826" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -755,50 +756,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Spiral Matrix II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="40" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Permutation Sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rotate List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/freshLeetcode.py" />
-    <entry file="file://$PROJECT_DIR$/Unique Paths.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unique Paths II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SortPrinterQueue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PickApple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1097,18 +1054,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Unique Binary Search Trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Unique Binary Search Trees II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
+        <state relative-caret-position="300">
           <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unique Binary Search Trees.py">
+    <entry file="file://$PROJECT_DIR$/Interleaving String.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -1121,26 +1086,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interleaving String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="31" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Validate Binary Search Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="34" selection-end-column="26" />
+        <state relative-caret-position="266">
+          <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Recover Binary Search Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="40" selection-end-column="91" />
+        <state relative-caret-position="315">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symmetric Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="62" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="59" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary Tree Level Order Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Maximum Depth of Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Construct Binary Tree from Preorder and Inorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="25" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary Tree Level Order Traversal II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="33" selection-end-column="20" />
           <folding />
         </state>
       </provider>
