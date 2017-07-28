@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5aa50453-56b0-4310-81ae-68844dee7481" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binary Tree Level Order Traversal II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binary Tree Level Order Traversal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Construct Binary Tree from Preorder and Inorder Traversal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maximum Depth of Binary Tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Symmetric Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Balanced Binary Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Convert Sorted Array to Binary Search Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Convert Sorted List to Binary Search Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flatten Binary Tree to Linked List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Longest Palindromic Substring.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Minimum Depth of Binary Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Path Sum II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Path Sum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -23,99 +24,107 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/freshLeetcode$Reverse_Linked_List_II.coverage" NAME="Reverse Linked List II Coverage Results" MODIFIED="1500981024851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Insert_Interval.coverage" NAME="Insert Interval Coverage Results" MODIFIED="1499513287901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$GenerateParentheses.coverage" NAME="GenerateParentheses Coverage Results" MODIFIED="1494760148799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Wildcard_Matching.coverage" NAME="Wildcard Matching Coverage Results" MODIFIED="1495797617662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Remove_Duplicates_from_Sorted_List_II.coverage" NAME="Remove Duplicates from Sorted List II Coverage Results" MODIFIED="1500552816362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Validate_Binary_Search_Tree.coverage" NAME="Validate Binary Search Tree Coverage Results" MODIFIED="1501070540051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Plus_One.coverage" NAME="Plus One Coverage Results" MODIFIED="1500294301445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$LongestCommonPrefix.coverage" NAME="LongestCommonPrefix Coverage Results" MODIFIED="1494325723652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Sqrt_x_.coverage" NAME="Sqrt(x) Coverage Results" MODIFIED="1500376900616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$3sum.coverage" NAME="3sum Coverage Results" MODIFIED="1494500594050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Combination_Sum_II.coverage" NAME="Combination Sum II Coverage Results" MODIFIED="1500892515349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$LongestValidParentheses.coverage" NAME="LongestValidParentheses Coverage Results" MODIFIED="1495365169371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Symmetric_Tree.coverage" NAME="Symmetric Tree Coverage Results" MODIFIED="1501151862146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Combination_Sum_II.coverage" NAME="Combination Sum II Coverage Results" MODIFIED="1495625527836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$ValidParentheses.coverage" NAME="ValidParentheses Coverage Results" MODIFIED="1494759129900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Spiral_Matrix.coverage" NAME="Spiral Matrix Coverage Results" MODIFIED="1499425369450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Decode_Ways.coverage" NAME="Decode Ways Coverage Results" MODIFIED="1500903720145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Set_Matrix_Zeroes.coverage" NAME="Set Matrix Zeroes Coverage Results" MODIFIED="1500380236689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Same_Tree.coverage" NAME="Same Tree Coverage Results" MODIFIED="1501067853042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Combinations.coverage" NAME="Combinations Coverage Results" MODIFIED="1500465344025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Interleaving_String.coverage" NAME="Interleaving String Coverage Results" MODIFIED="1501068643273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Remove_Duplicates_from_Sorted_Array_II.coverage" NAME="Remove Duplicates from Sorted Array II Coverage Results" MODIFIED="1500550217085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$First_Missing_Positive.coverage" NAME="First Missing Positive Coverage Results" MODIFIED="1495712366270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$RemoveDuplicatesfromSortedArray.coverage" NAME="RemoveDuplicatesfromSortedArray Coverage Results" MODIFIED="1494923604177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Spiral_Matrix_II.coverage" NAME="Spiral Matrix II Coverage Results" MODIFIED="1499597978180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Climbing_Stairs.coverage" NAME="Climbing Stairs Coverage Results" MODIFIED="1500377234481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$MergeTwoSortedLists.coverage" NAME="MergeTwoSortedLists Coverage Results" MODIFIED="1494845385185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Multiply_Strings.coverage" NAME="Multiply Strings Coverage Results" MODIFIED="1495796739145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Jump_Game_II.coverage" NAME="Jump Game II Coverage Results" MODIFIED="1499425805862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Minimum_Path_Sum.coverage" NAME="Minimum Path Sum Coverage Results" MODIFIED="1500033278554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Binary_Tree_Level_Order_Traversal.coverage" NAME="Binary Tree Level Order Traversal Coverage Results" MODIFIED="1501152188120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Maximal_Rectangle.coverage" NAME="Maximal Rectangle Coverage Results" MODIFIED="1500804421274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$NextPermutation.coverage" NAME="NextPermutation Coverage Results" MODIFIED="1495105229967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Convert_Sorted_List_to_Binary_Search_Tree.coverage" NAME="Convert Sorted List to Binary Search Tree Coverage Results" MODIFIED="1501233161638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$MergeKSortedLists.coverage" NAME="MergeKSortedLists Coverage Results" MODIFIED="1494845793458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.coverage" NAME="Construct Binary Tree from Preorder and Inorder Traversal Coverage Results" MODIFIED="1501155641570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$ReverseNodesinkGroup.coverage" NAME="ReverseNodesinkGroup Coverage Results" MODIFIED="1494849891691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Permutation_Sequence.coverage" NAME="Permutation Sequence Coverage Results" MODIFIED="1499599906132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Subsets_II.coverage" NAME="Subsets II Coverage Results" MODIFIED="1500902225496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$SwapNodesinPairs.coverage" NAME="SwapNodesinPairs Coverage Results" MODIFIED="1494848713773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Unique_Paths_II.coverage" NAME="Unique Paths II Coverage Results" MODIFIED="1500031763791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Gray_Code.coverage" NAME="Gray Code Coverage Results" MODIFIED="1500895064795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Combination_Sum.coverage" NAME="Combination Sum Coverage Results" MODIFIED="1495624512952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$ImplementstrStr.coverage" NAME="ImplementstrStr Coverage Results" MODIFIED="1495017920313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$PickApple.coverage" NAME="PickApple Coverage Results" MODIFIED="1499860517692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Jump_Game.coverage" NAME="Jump Game Coverage Results" MODIFIED="1499427206376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$GroupAnagrams.coverage" NAME="GroupAnagrams Coverage Results" MODIFIED="1499254362001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Rotate_List.coverage" NAME="Rotate List Coverage Results" MODIFIED="1499858448462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$SubstringwithConcatenationofAllWords.coverage" NAME="SubstringwithConcatenationofAllWords Coverage Results" MODIFIED="1495096458773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$LetterCombinationsofaPhoneNumber.coverage" NAME="LetterCombinationsofaPhoneNumber Coverage Results" MODIFIED="1494503160710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Unique_Paths.coverage" NAME="Unique Paths Coverage Results" MODIFIED="1500031425180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Permutations.coverage" NAME="Permutations Coverage Results" MODIFIED="1499252027132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$SortPrinterQueue.coverage" NAME="SortPrinterQueue Coverage Results" MODIFIED="1499861531283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$RegularExpressionMatching.coverage" NAME="RegularExpressionMatching Coverage Results" MODIFIED="1494248075606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Count_and_Say.coverage" NAME="Count and Say Coverage Results" MODIFIED="1495623739933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Trapping_Rain_Water.coverage" NAME="Trapping Rain Water Coverage Results" MODIFIED="1495714688405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Remove_Duplicates_from_Sorted_List.coverage" NAME="Remove Duplicates from Sorted List Coverage Results" MODIFIED="1500634071966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Restore_IP_Addresses.coverage" NAME="Restore IP Addresses Coverage Results" MODIFIED="1500982345381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Add_Binary.coverage" NAME="Add Binary Coverage Results" MODIFIED="1500295377444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Maximum_Depth_of_Binary_Tree.coverage" NAME="Maximum Depth of Binary Tree Coverage Results" MODIFIED="1501154876228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Search_in_Rotated_Sorted_Array_II.coverage" NAME="Search in Rotated Sorted Array II Coverage Results" MODIFIED="1500551466097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Largest_Rectangle_in_Histogram.coverage" NAME="Largest Rectangle in Histogram Coverage Results" MODIFIED="1500802917224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Maximum_Subarray.coverage" NAME="Maximum Subarray Coverage Results" MODIFIED="1499419621861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Simplify_Path.coverage" NAME="Simplify Path Coverage Results" MODIFIED="1500376522950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Word_Search.coverage" NAME="Word Search Coverage Results" MODIFIED="1500548397791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Recover_Binary_Search_Tree.coverage" NAME="Recover Binary Search Tree Coverage Results" MODIFIED="1501072658293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Unique_Binary_Search_Trees_II.coverage" NAME="Unique Binary Search Trees II Coverage Results" MODIFIED="1501066079437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Minimum_Window_Substring.coverage" NAME="Minimum Window Substring Coverage Results" MODIFIED="1500460796542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Subsets.coverage" NAME="Subsets Coverage Results" MODIFIED="1500900519740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$RotateImage.coverage" NAME="RotateImage Coverage Results" MODIFIED="1499253525606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Binary_Tree_Level_Order_Traversal_II.coverage" NAME="Binary Tree Level Order Traversal II Coverage Results" MODIFIED="1501156057526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Partition_List.coverage" NAME="Partition List Coverage Results" MODIFIED="1500806869768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$ValidSudoku.coverage" NAME="ValidSudoku Coverage Results" MODIFIED="1495541360765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Sort_Colors.coverage" NAME="Sort Colors Coverage Results" MODIFIED="1500464215534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Unique_Binary_Search_Trees.coverage" NAME="Unique Binary Search Trees Coverage Results" MODIFIED="1501066921531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Binary_Tree_Zigzag_Level_Order_Traversal.coverage" NAME="Binary Tree Zigzag Level Order Traversal Coverage Results" MODIFIED="1501153615228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$DivideTwoIntegers.coverage" NAME="DivideTwoIntegers Coverage Results" MODIFIED="1495023160524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$RemoveElement.coverage" NAME="RemoveElement Coverage Results" MODIFIED="1494935176310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Container_With_Most_Water.coverage" NAME="Container With Most Water Coverage Results" MODIFIED="1494325619608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Merge_Intervals.coverage" NAME="Merge Intervals Coverage Results" MODIFIED="1499512687041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$3SumClosest.coverage" NAME="3SumClosest Coverage Results" MODIFIED="1494501957784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Edit_Distance.coverage" NAME="Edit Distance Coverage Results" MODIFIED="1500375403972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Pow_x__n_.coverage" NAME="Pow(x, n) Coverage Results" MODIFIED="1499255229307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Scramble_String.coverage" NAME="Scramble String Coverage Results" MODIFIED="1500809569707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Search_a_2D_Matrix.coverage" NAME="Search a 2D Matrix Coverage Results" MODIFIED="1500462810080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$SearchInsertPosition.coverage" NAME="SearchInsertPosition Coverage Results" MODIFIED="1495370224816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$N_Queens.coverage" NAME="N-Queens Coverage Results" MODIFIED="1499419489459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Text_Justification.coverage" NAME="Text Justification Coverage Results" MODIFIED="1500292802860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Merge_Sorted_Array.coverage" NAME="Merge Sorted Array Coverage Results" MODIFIED="1500811346107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$SearchforaRange.coverage" NAME="SearchforaRange Coverage Results" MODIFIED="1495368768312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Reverse_Linked_List_II.coverage" NAME="Reverse Linked List II Coverage Results" MODIFIED="1500981024851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Insert_Interval.coverage" NAME="Insert Interval Coverage Results" MODIFIED="1499513287901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$GenerateParentheses.coverage" NAME="GenerateParentheses Coverage Results" MODIFIED="1494760148799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Remove_Duplicates_from_Sorted_List_II.coverage" NAME="Remove Duplicates from Sorted List II Coverage Results" MODIFIED="1500552816362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Validate_Binary_Search_Tree.coverage" NAME="Validate Binary Search Tree Coverage Results" MODIFIED="1501070540051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Convert_Sorted_Array_to_Binary_Search_Tree.coverage" NAME="Convert Sorted Array to Binary Search Tree Coverage Results" MODIFIED="1501232572283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$3sum.coverage" NAME="3sum Coverage Results" MODIFIED="1494500594050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Combination_Sum_II.coverage" NAME="Combination Sum II Coverage Results" MODIFIED="1500892515349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$LongestValidParentheses.coverage" NAME="LongestValidParentheses Coverage Results" MODIFIED="1495365169371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Symmetric_Tree.coverage" NAME="Symmetric Tree Coverage Results" MODIFIED="1501151862146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Path_Sum.coverage" NAME="Path Sum Coverage Results" MODIFIED="1501240880335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Balanced_Binary_Tree.coverage" NAME="Balanced Binary Tree Coverage Results" MODIFIED="1501238289501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$ValidParentheses.coverage" NAME="ValidParentheses Coverage Results" MODIFIED="1494759129900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Decode_Ways.coverage" NAME="Decode Ways Coverage Results" MODIFIED="1500903720145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Combinations.coverage" NAME="Combinations Coverage Results" MODIFIED="1500465344025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Interleaving_String.coverage" NAME="Interleaving String Coverage Results" MODIFIED="1501068643273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$RemoveDuplicatesfromSortedArray.coverage" NAME="RemoveDuplicatesfromSortedArray Coverage Results" MODIFIED="1494923604177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Spiral_Matrix_II.coverage" NAME="Spiral Matrix II Coverage Results" MODIFIED="1499597978180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Jump_Game_II.coverage" NAME="Jump Game II Coverage Results" MODIFIED="1499425805862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Minimum_Path_Sum.coverage" NAME="Minimum Path Sum Coverage Results" MODIFIED="1500033278554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$NextPermutation.coverage" NAME="NextPermutation Coverage Results" MODIFIED="1495105229967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Subsets_II.coverage" NAME="Subsets II Coverage Results" MODIFIED="1500902225496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$SwapNodesinPairs.coverage" NAME="SwapNodesinPairs Coverage Results" MODIFIED="1494848713773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Unique_Paths_II.coverage" NAME="Unique Paths II Coverage Results" MODIFIED="1500031763791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Minimum_Depth_of_Binary_Tree.coverage" NAME="Minimum Depth of Binary Tree Coverage Results" MODIFIED="1501240284034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Combination_Sum.coverage" NAME="Combination Sum Coverage Results" MODIFIED="1495624512952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$ImplementstrStr.coverage" NAME="ImplementstrStr Coverage Results" MODIFIED="1495017920313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Jump_Game.coverage" NAME="Jump Game Coverage Results" MODIFIED="1499427206376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Rotate_List.coverage" NAME="Rotate List Coverage Results" MODIFIED="1499858448462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$LetterCombinationsofaPhoneNumber.coverage" NAME="LetterCombinationsofaPhoneNumber Coverage Results" MODIFIED="1494503160710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$RegularExpressionMatching.coverage" NAME="RegularExpressionMatching Coverage Results" MODIFIED="1494248075606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Count_and_Say.coverage" NAME="Count and Say Coverage Results" MODIFIED="1495623739933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Restore_IP_Addresses.coverage" NAME="Restore IP Addresses Coverage Results" MODIFIED="1500982345381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Maximum_Depth_of_Binary_Tree.coverage" NAME="Maximum Depth of Binary Tree Coverage Results" MODIFIED="1501154876228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Search_in_Rotated_Sorted_Array_II.coverage" NAME="Search in Rotated Sorted Array II Coverage Results" MODIFIED="1500551466097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Largest_Rectangle_in_Histogram.coverage" NAME="Largest Rectangle in Histogram Coverage Results" MODIFIED="1500802917224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Simplify_Path.coverage" NAME="Simplify Path Coverage Results" MODIFIED="1500376522950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Recover_Binary_Search_Tree.coverage" NAME="Recover Binary Search Tree Coverage Results" MODIFIED="1501072658293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Subsets.coverage" NAME="Subsets Coverage Results" MODIFIED="1500900519740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Binary_Tree_Level_Order_Traversal_II.coverage" NAME="Binary Tree Level Order Traversal II Coverage Results" MODIFIED="1501160315271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$ValidSudoku.coverage" NAME="ValidSudoku Coverage Results" MODIFIED="1495541360765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Path_Sum_II.coverage" NAME="Path Sum II Coverage Results" MODIFIED="1501243023124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Longest_Palindromic_Substring.coverage" NAME="Longest Palindromic Substring Coverage Results" MODIFIED="1501162415709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$DivideTwoIntegers.coverage" NAME="DivideTwoIntegers Coverage Results" MODIFIED="1495023160524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Container_With_Most_Water.coverage" NAME="Container With Most Water Coverage Results" MODIFIED="1494325619608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Scramble_String.coverage" NAME="Scramble String Coverage Results" MODIFIED="1500809569707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/freshLeetcode$Flatten_Binary_Tree_to_Linked_List.coverage" NAME="Flatten Binary Tree to Linked List Coverage Results" MODIFIED="1501244540026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.coverage" NAME="Construct Binary Tree from Inorder and Postorder Traversal Coverage Results" MODIFIED="1501156056000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freshLeetcode$Binary_Tree_Inorder_Traversal.coverage" NAME="Binary Tree Inorder Traversal Coverage Results" MODIFIED="1500982447578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$SearchinRotatedSorted_Array.coverage" NAME="SearchinRotatedSorted Array Coverage Results" MODIFIED="1495368020037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Length_of_Last_Word.coverage" NAME="Length of Last Word Coverage Results" MODIFIED="1499513465776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Text_Justification.coverage" NAME="Text Justification Coverage Results" MODIFIED="1500292802860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/freshLeetcode$Merge_Sorted_Array.coverage" NAME="Merge Sorted Array Coverage Results" MODIFIED="1500811346107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$SearchforaRange.coverage" NAME="SearchforaRange Coverage Results" MODIFIED="1495368768312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$4Sum.coverage" NAME="4Sum Coverage Results" MODIFIED="1494585626954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -129,76 +138,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Same Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Same Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="25" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Validate Binary Search Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Validate Binary Search Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Recover Binary Search Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Recover Binary Search Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Symmetric Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Symmetric Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="62" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Binary Tree Level Order Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary Tree Level Order Traversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="24" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Binary Tree Zigzag Level Order Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="59" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Maximum Depth of Binary Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Maximum Depth of Binary Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Construct Binary Tree from Preorder and Inorder Traversal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Construct Binary Tree from Preorder and Inorder Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -212,18 +151,88 @@
       <file leaf-file-name="Construct Binary Tree from Inorder and Postorder Traversal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="-19">
               <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="25" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Binary Tree Level Order Traversal II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Binary Tree Level Order Traversal II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Binary Tree Level Order Traversal II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="33" selection-end-column="20" />
+            <state relative-caret-position="191">
+              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="47" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Convert Sorted Array to Binary Search Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Convert Sorted Array to Binary Search Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="39" column="32" selection-start-line="29" selection-start-column="4" selection-end-line="39" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Convert Sorted List to Binary Search Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Convert Sorted List to Binary Search Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-469">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="48" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Balanced Binary Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Balanced Binary Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="48" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Minimum Depth of Binary Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Minimum Depth of Binary Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="43" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Path Sum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Path Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Path Sum II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Path Sum II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="55" column="30" selection-start-line="41" selection-start-column="4" selection-end-line="55" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Flatten Binary Tree to Linked List.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Flatten Binary Tree to Linked List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -244,14 +253,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Spiral Matrix II.py" />
-        <option value="$PROJECT_DIR$/Permutation Sequence.py" />
-        <option value="$PROJECT_DIR$/Rotate List.py" />
-        <option value="$PROJECT_DIR$/PickApple.py" />
-        <option value="$PROJECT_DIR$/freshLeetcode.py" />
-        <option value="$PROJECT_DIR$/SortPrinterQueue.py" />
-        <option value="$PROJECT_DIR$/Unique Paths.py" />
-        <option value="$PROJECT_DIR$/Unique Paths II.py" />
         <option value="$PROJECT_DIR$/Minimum Path Sum.py" />
         <option value="$PROJECT_DIR$/Text Justification.py" />
         <option value="$PROJECT_DIR$/Plus One.py" />
@@ -295,6 +296,14 @@
         <option value="$PROJECT_DIR$/Construct Binary Tree from Preorder and Inorder Traversal.py" />
         <option value="$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal.py" />
         <option value="$PROJECT_DIR$/Binary Tree Level Order Traversal II.py" />
+        <option value="$PROJECT_DIR$/Longest Palindromic Substring.py" />
+        <option value="$PROJECT_DIR$/Convert Sorted Array to Binary Search Tree.py" />
+        <option value="$PROJECT_DIR$/Convert Sorted List to Binary Search Tree.py" />
+        <option value="$PROJECT_DIR$/Balanced Binary Tree.py" />
+        <option value="$PROJECT_DIR$/Minimum Depth of Binary Tree.py" />
+        <option value="$PROJECT_DIR$/Path Sum.py" />
+        <option value="$PROJECT_DIR$/Path Sum II.py" />
+        <option value="$PROJECT_DIR$/Flatten Binary Tree to Linked List.py" />
       </list>
     </option>
   </component>
@@ -380,8 +389,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Binary Tree Level Order Traversal II">
-    <configuration default="false" name="Binary Tree Zigzag Level Order Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Flatten Binary Tree to Linked List">
+    <configuration default="false" name="Balanced Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -394,12 +403,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Balanced Binary Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Maximum Depth of Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Minimum Depth of Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -412,12 +421,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maximum Depth of Binary Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Minimum Depth of Binary Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Construct Binary Tree from Preorder and Inorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Path Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -430,12 +439,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Construct Binary Tree from Preorder and Inorder Traversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Path Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Construct Binary Tree from Inorder and Postorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Path Sum II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -448,12 +457,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Path Sum II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Binary Tree Level Order Traversal II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Flatten Binary Tree to Linked List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -466,7 +475,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary Tree Level Order Traversal II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flatten Binary Tree to Linked List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -680,19 +689,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Binary Tree Zigzag Level Order Traversal" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Maximum Depth of Binary Tree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Construct Binary Tree from Preorder and Inorder Traversal" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Construct Binary Tree from Inorder and Postorder Traversal" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Binary Tree Level Order Traversal II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Balanced Binary Tree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Minimum Depth of Binary Tree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Path Sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Path Sum II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Flatten Binary Tree to Linked List" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Binary Tree Level Order Traversal II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Construct Binary Tree from Inorder and Postorder Traversal" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Construct Binary Tree from Preorder and Inorder Traversal" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Maximum Depth of Binary Tree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Binary Tree Zigzag Level Order Traversal" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Flatten Binary Tree to Linked List" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Path Sum II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Path Sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Minimum Depth of Binary Tree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Balanced Binary Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -722,7 +731,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39043826" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39043826" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -756,64 +765,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PickApple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="63" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Minimum Path Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Text Justification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="51" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Plus One.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Add Binary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="44" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Edit Distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Simplify Path.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="21" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sqrt(x).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Climbing Stairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1030,14 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Reverse Linked List II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="31" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Binary Tree Inorder Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
@@ -1102,14 +1045,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Symmetric Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="62" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Binary Tree Zigzag Level Order Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
@@ -1122,6 +1057,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="24" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symmetric Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="62" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reverse Linked List II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="45" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -1144,16 +1095,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Construct Binary Tree from Inorder and Postorder Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="-19">
           <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="25" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Convert Sorted Array to Binary Search Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="39" column="32" selection-start-line="29" selection-start-column="4" selection-end-line="39" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest Palindromic Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Binary Tree Level Order Traversal II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="191">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="47" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Convert Sorted List to Binary Search Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="48" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Balanced Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="48" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Minimum Depth of Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="43" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Path Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Path Sum II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="55" column="30" selection-start-line="41" selection-start-column="4" selection-end-line="55" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flatten Binary Tree to Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
