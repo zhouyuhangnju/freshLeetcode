@@ -37,18 +37,37 @@ def subsets(nums):
     #
     # return resnums
 
-    def subSubsets(currnums, reslist):
+    # def subSubsets(currnums, reslist):
+    #
+    #     if len(currnums) == 0:
+    #         return reslist
+    #
+    #     newreslist = []
+    #     for res in reslist:
+    #         newreslist.append(res + [currnums[0]])
+    #
+    #     return subSubsets(currnums[1:], reslist + newreslist)
+    #
+    # return subSubsets(nums, [[]])
 
-        if len(currnums) == 0:
-            return reslist
+    res = []
 
-        newreslist = []
-        for res in reslist:
-            newreslist.append(res + [currnums[0]])
+    def subSubsets(currres, curridx):
 
-        return subSubsets(currnums[1:], reslist + newreslist)
+        if curridx >= len(nums):
+            res.append(currres)
+            return
 
-    return subSubsets(nums, [[]])
+        subSubsets(currres, curridx + 1)
+        subSubsets(currres + [nums[curridx]], curridx + 1)
+
+    subSubsets([], 0)
+
+    return res
+
+
+
+
 
 
 if __name__ == '__main__':

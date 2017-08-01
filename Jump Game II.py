@@ -32,31 +32,57 @@ def jump(nums):
 
     # ##############
     # Solution 2
+    #
+    # n = len(nums)
+    # if n == 1 and nums[0] >= 0:
+    #     return 0
+    #
+    # dp = []
+    # for i in range(n):
+    #     dp.append(-1)
+    #
+    # layer = 1
+    # stack = [0]
+    # new_stack = []
+    #
+    # while True:
+    #     if len(stack) == 0:
+    #         stack = new_stack
+    #         layer += 1
+    #         new_stack = []
+    #     idx = stack.pop(0)
+    #     for i in range(nums[idx]-1, -1, -1):
+    #         if idx + i + 1 >= n - 1:
+    #             return layer
+    #         if dp[idx + i + 1] == -1:
+    #             dp[idx + i + 1] = layer
+    #             new_stack.append(idx + i + 1)
+
+
+    # ##############
+    # Solution 3
 
     n = len(nums)
     if n == 1 and nums[0] >= 0:
         return 0
 
-    dp = []
-    for i in range(n):
-        dp.append(-1)
+    minstep = [-1] * n
+    minstep[0] = 0
 
-    layer = 1
     stack = [0]
-    new_stack = []
 
-    while True:
-        if len(stack) == 0:
-            stack = new_stack
-            layer += 1
-            new_stack = []
+    while stack:
         idx = stack.pop(0)
-        for i in range(nums[idx]-1, -1, -1):
-            if idx + i + 1 >= n - 1:
-                return layer
-            if dp[idx + i + 1] == -1:
-                dp[idx + i + 1] = layer
-                new_stack.append(idx + i + 1)
+
+        for i in range(idx+nums[idx], idx, -1):
+            if i >= n-1:
+                return minstep[idx] + 1
+            if minstep[i] == -1:
+                minstep[i] = minstep[idx] + 1
+                stack.append(i)
+            else:
+                break
+
 
 
 if __name__ == '__main__':

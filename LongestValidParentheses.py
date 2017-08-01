@@ -4,44 +4,29 @@ def longestValidParentheses(s):
     :rtype: int
     """
 
-    res = 0
+def longestValidParentheses(s):
 
-    parentheses_stack = []
-    pairlist = [0]
-
+    maxlen = 0
+    stack = []
+    totalstart = 0
     for i in range(len(s)):
         if s[i] == '(':
-            parentheses_stack.append(s[i])
-            pairlist.append(0)
+            stack.append(['(', i])
         else:
-            if len(parentheses_stack) != 0 and parentheses_stack[-1] == '(':
-                parentheses_stack.pop(-1)
-
-                p = pairlist.pop(-1) + 1
-                if len(pairlist) != 0:
-                    pairlist[-1] += p
+            if len(stack) > 0:
+                start = stack.pop(-1)[1]
+                maxlen = max(maxlen, i - start + 1)
+                if len(stack) > 0:
+                    maxlen = max(maxlen, i - stack[-1][1])
                 else:
-                    pairlist.append(p)
+                    maxlen = max(maxlen, i - totalstart + 1)
             else:
-                if len(pairlist) != 0:
-                    print pairlist
-                    if len(parentheses_stack) == 0:
-                        res = max(res, sum([2 * p for p in pairlist]))
-                    else:
-                        res = max(res, max([2 * p for p in pairlist]))
-                parentheses_stack = []
-                pairlist = []
+                totalstart = i + 1
+        print maxlen
 
-    print pairlist
-    print parentheses_stack
-    if len(pairlist) != 0:
-        if len(parentheses_stack) == 0:
-            res = max(res, sum([2 * p for p in pairlist]))
-        else:
-            res = max(res, max([2 * p for p in pairlist]))
-    return res
+    return maxlen
 
 
 
 if __name__ == '__main__':
-    print longestValidParentheses('())(())(')
+    print longestValidParentheses('(()))())')

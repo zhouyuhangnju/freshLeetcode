@@ -5,6 +5,21 @@ def generateParenthesis(n):
     :rtype: List[str]
     """
 
+    res = []
+
+    def subGenerateParenthesis(p, left, right):
+        if left > 0:
+            subGenerateParenthesis(p+'(', left-1, right)
+        if right > left:
+            subGenerateParenthesis(p+')', left, right-1)
+        if right == 0:
+            res.append(p)
+
+    subGenerateParenthesis('', n, n)
+
+    return res if n > 0 else []
+
+def generateParenthesis2(n):
     reslist = [('(', 1)]
     for i in range(n * 2 - 1):
         newreslist = []
@@ -23,4 +38,5 @@ def generateParenthesis(n):
 
 
 if __name__ == '__main__':
-    print generateParenthesis(4)
+
+    print generateParenthesis(0)
